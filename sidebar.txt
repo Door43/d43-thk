@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[thk:home|Door43 (thk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-thk|d43-thk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-thk/archive/master.zip|d43-thk.zip]]
+
+**Recent Changes**
+{{changes>ns = thk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/thk|Ethnologue data]]
+
